@@ -65,6 +65,7 @@ Minggu 6: Pengujian, perbaikan bug, dan evaluasi sistem.
 - Menghubungkan data pemeriksaan dengan pasien terkait.
 
 6. Laporan
+   
 Menyediakan laporan kunjungan pasien berdasarkan periode tertentu.
 
 
