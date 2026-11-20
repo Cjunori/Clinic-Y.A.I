@@ -30,6 +30,13 @@ Minggu 4–5: Pengembangan aplikasi dan integrasi fitur.
 
 Minggu 6: Pengujian, perbaikan bug, dan evaluasi sistem.
 
+# Tech Stack
+- Arsitektur: MVC (Model-View-Controller) — PHP Native
+- Frontend: HTML5, CSS (Desain UI/UX via Figma)
+- Backend: PHP 8.x (OOP / Procedural Terstruktur)
+- Database: MySQL Server (XAMPP)
+- Tools & Kolaborasi: Google Antigravity, Git & GitHub
+
 # Tujuan Pengembangan
 - Mempermudah pasien dalam melakukan registrasi dan reservasi konsultasi secara online.
 - Mengelola nomor dan status antrean pasien secara otomatis.
