@@ -23,8 +23,11 @@ Dengan adanya sistem ini, proses pelayanan klinik diharapkan menjadi lebih terst
 # Tahap Pengembangan
 
 Minggu 1–2: Persiapan, pembagian tugas, dan analisis kebutuhan.
+
 Minggu 3: Perancangan UML, database, dan UI/UX.
+
 Minggu 4–5: Pengembangan aplikasi dan integrasi fitur.
+
 Minggu 6: Pengujian, perbaikan bug, dan evaluasi sistem.
 
 # Tujuan Pengembangan
