@@ -28,39 +28,7 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
 [![Apache](https://img.shields.io/github/actions/workflow/status/yiisoft/yii2-app-advanced/docker.yml?style=for-the-badge&logo=apache&label=Apache)](https://github.com/yiisoft/yii2-app-advanced/actions/workflows/docker.yml)
 
-REQUIREMENTS
-------------
 
-> [!IMPORTANT]
-> - The minimum required [PHP](https://www.php.net/) version of Yii is PHP `8.2`.
-
-## Install via Composer
-
-If you do not have [Composer](https://getcomposer.org/), you may install it by following the instructions
-at [getcomposer.org](https://getcomposer.org/doc/00-intro.md#installation-nix).
-
-You can then install this project template using the following commands:
-
-```bash
-composer create-project --prefer-dist yiisoft/yii2-app-advanced advanced
-cd advanced
-```
-
-### Frontend
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/frontend/home-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="docs/images/frontend/home-light.png">
-    <img src="docs/images/frontend/home-light.png" alt="Web Application Advanced - Frontend">
-</picture>
-
-### Backend
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/backend/home-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="docs/images/backend/home-light.png">
-    <img src="docs/images/backend/home-light.png" alt="Web Application Advanced - Backend">
-</picture>
 
 DIRECTORY STRUCTURE
 -------------------
