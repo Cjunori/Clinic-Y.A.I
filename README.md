@@ -24,10 +24,6 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 [![build](https://img.shields.io/github/actions/workflow/status/yiisoft/yii2-app-advanced/build.yml?style=for-the-badge&logo=github&label=Build)](https://github.com/yiisoft/yii2-app-advanced/actions?query=workflow%3Abuild)
 [![Static Analysis](https://img.shields.io/github/actions/workflow/status/yiisoft/yii2-app-advanced/static.yml?style=for-the-badge&label=Static)](https://github.com/yiisoft/yii2-app-advanced/actions/workflows/static.yml)
 
-## Docker
-
-[![Apache](https://img.shields.io/github/actions/workflow/status/yiisoft/yii2-app-advanced/docker.yml?style=for-the-badge&logo=apache&label=Apache)](https://github.com/yiisoft/yii2-app-advanced/actions/workflows/docker.yml)
-
 
 
 DIRECTORY STRUCTURE
